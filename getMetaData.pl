@@ -1,5 +1,6 @@
 #!/usr/bin/perl
 
+#Get MetaData from a file using an identical IDs (both on their first column)
 
 my $na = scalar @ARGV;
 
