@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @faspbr
 - 👀 I’m a biologist and I'm interested in the parasite-host interactions.
 - 🌱 I’m currently learning, just as I always have been.
-- 💞️ I’m looking to collaborate on building Perl scripts.
+- 💞️ I’m looking to collaborate on building Perl and R scripts.
 - 📫 How to reach me: e-mail->fspais@gmail.com ; Google Scholar->https://scholar.google.com.br/citations?user=LjIsnBcAAAAJ&hl=pt-BR 
 
 <!---
